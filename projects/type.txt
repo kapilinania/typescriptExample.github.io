@@ -1,0 +1,10 @@
+go to tsconfig file and so that changes to store file in well managemnet way
+"rootDir": "./src", here we are create ts file   
+"outDir": "./dist",  
+"target": "es2016",   here all we can update used always latest for good feature 
+
+// {
+  //   "exclude": [node],
+  //   "include": []
+  // }   
+  like that we can use include and exclude 
